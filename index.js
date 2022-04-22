@@ -6,13 +6,15 @@ const connectToDatabase = require('./src/database/database');
 const port = 3003;
 const app = express();
 
-// connectToDatabase();
+connectToDatabase();
 
-app.use(express.json);
+app.use(express.json());
 app.use(cors());
 
-// app.use('/products', routes);
+app.use('/products', routes);
 
 app.listen(port, () => {
-  console.log(`Servidor rodando em http://localhost:${port}/products/find-products`);
+  console.log(
+    `Servidor rodando em http://localhost:${port}/products/find-products`,
+  );
 });

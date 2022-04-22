@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Regata Nike Los Angeles Lakers LeBron James",
+    "gender": "Masculino",
+    "color": "Preto",
+    "brand": "Nike",
+    "price": 599.0,
+    "sizes": "P, M, G, GG",
+    "material": "Poliéster",
+    "image": "https://static.lojanba.com/produtos/regata-nike-los-angeles-lakers-lebron-james-masculina/06/2IC-3511-006/2IC-3511-006_zoom1.jpg?ts=1626378474&ims=544x"
+  },
+  {
+    "name": "Regata NBA Golden State Warriors Curry nº 30 Nike Icon Edition 2020",
+    "gender": "Masculino",
+    "color": "Azul + Amarelo",
+    "brand": "Nike",
+    "price": 599.0,
+    "sizes": "P, M, G, GG, EGG",
+    "material": "Poliéster",
+    "image": "https://static.lojanba.com/produtos/regata-nba-golden-state-warriors-curry-n-30-nike-icon-edition-2020-masculina/76/HZM-4036-076/HZM-4036-076_zoom1.jpg?ts=1617822278&ims=544x"
+  },
+  {
+    "name": "Regata NBA Chicago Bulls Zach Lavine Nike Icon Edition 2020",
+    "gender": "Masculino",
+    "color": "Vermelho + Branco",
+    "brand": "Nike",
+    "price": 599.0,
+    "sizes": "P, M, G, GG",
+    "material": "Poliéster",
+    "image": "https://static.lojanba.com/produtos/regata-nba-chicago-bulls-zach-lavine-nike-icon-edition-2020-masculina/56/HZM-4030-056/HZM-4030-056_zoom1.jpg?ts=1630604873&ims=544x"
+  },
+  {
+    "name": "Camiseta Cropped NBA Chicago Bulls Sport",
+    "gender": "Feminino",
+    "color": "Preto + Cinza",
+    "brand": "NBA",
+    "price": 69.9,
+    "sizes": "P, M, G",
+    "material": "Algodão",
+    "image": "https://static.lojanba.com/produtos/camiseta-cropped-nba-chicago-bulls-sport-feminina/72/LEX-3909-172/LEX-3909-172_zoom1.jpg?ts=1650387356&?ims=544xhttps://static.lojanba.com/produtos/camiseta-cropped-nba-chicago-bulls-sport-feminina/72/LEX-3909-172/LEX-3909-172_zoom1.jpg?ts=1650387356&?ims=1088x"
+  },
+  {
+    "name": "Camiseta Nike Space Jam A New Legacy 1",
+    "gender": "Feminino",
+    "color": "Branco",
+    "brand": "NBA",
+    "price": 99.99,
+    "sizes": "P, M, G",
+    "material": "Algodão",
+    "image": "https://static.lojanba.com/produtos/camiseta-nike-space-jam-a-new-legacy-1-feminina/14/2IC-3653-014/2IC-3653-014_zoom1.jpg?ts=1625688297&ims=544x"
+  },
+  {
+    "name": "Camiseta Cropped NBA New York Knicks",
+    "gender": "Feminino",
+    "color": "Azul Petróleo",
+    "brand": "NBA",
+    "price": 69.9,
+    "sizes": "P, M, G",
+    "material": "Algodão",
+    "image": "https://static.lojanba.com/produtos/camiseta-cropped-nba-new-york-knicks-feminina/79/LEX-3880-879/LEX-3880-879_zoom1.jpg?ts=1650387406&ims=544x"
+  },
+  {
+    "name": "Tênis Nike NBA Air Jordan XXXVI F5",
+    "gender": "Masculino",
+    "color": "Preto + Vermelho",
+    "brand": "Nike",
+    "price": 1299.99,
+    "sizes": "38, 39, 40, 41, 42, 43, 44",
+    "material": "Sintético e Têxtil",
+    "image": "https://static.lojanba.com/produtos/tenis-nike-nba-air-jordan-xxxvi-f5-masculino/02/2IC-6051-002/2IC-6051-002_zoom1.jpg?ts=1649796749&ims=544x"
+  },
+  {
+    "name": "Tênis Adidas Harden Stepback2 Dia De Los Muertos",
+    "gender": "Unissex",
+    "color": "Branco + Rosa",
+    "brand": "Adidas",
+    "price": 399.99,
+    "sizes": "39, 40, 41",
+    "material": "Têxtil",
+    "image": "https://static.lojanba.com/produtos/tenis-adidas-harden-stepback2-dia-de-los-muertos/20/3ZP-3294-020/3ZP-3294-020_zoom1.jpg?ts=1632583503&ims=544x"
+  },
+  {
+    "name": "Tênis Adidas Indoor Ligra 7",
+    "gender": "Feminino",
+    "color": "Branco + Preto",
+    "brand": "Adidas",
+    "price": 399.99,
+    "sizes": "34, 35, 36, 37, 38, 39, 40",
+    "material": "Mesh",
+    "image": "https://static.lojanba.com/produtos/tenis-adidas-indoor-ligra-7-feminino/28/3ZP-3295-028/3ZP-3295-028_zoom1.jpg?ts=1632583693&ims=544x"
+  },
+  {
+    "name": "Tênis Adidas Trae Young 1 Christmas",
+    "gender": "Unissex",
+    "color": "Cinza + Branco",
+    "brand": "Adidas",
+    "price": 899.99,
+    "sizes": "40",
+    "material": "Couro",
+    "image": "https://static.lojanba.com/produtos/tenis-adidas-trae-young-1-christmas-masculino/26/3ZP-3297-226/3ZP-3297-226_zoom1.jpg?ts=1643639038&ims=544x"
+  }
+]
