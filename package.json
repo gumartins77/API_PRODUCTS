@@ -1,0 +1,29 @@
+{
+  "name": "api_products",
+  "version": "1.0.0",
+  "description": "API ABOUT AN ECOMMERCE PRODUCT CATALOG",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gumartins77/API_PRODUCTS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gumartins77/API_PRODUCTS/issues"
+  },
+  "homepage": "https://github.com/gumartins77/API_PRODUCTS#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
