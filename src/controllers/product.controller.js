@@ -33,7 +33,9 @@ const updateProductController = async (req, res) => {
 };
 
 const deleteProductController = async (req, res) => {
-  await productsService.deleteProductService(req.params.id);
+  const deleteProduct = await productsService.deleteProductService(
+    req.params.id,
+  );
   res.send({ message: 'Product successfully deleted!' });
 };
 
