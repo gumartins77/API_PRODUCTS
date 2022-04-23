@@ -6,9 +6,9 @@ const connectToDatabase = () => {
       useNewUrlParser: true,
       useUnifiedTopology: true,
     })
-    .then(() => console.log('MongoDB Conectado!'))
+    .then(() => console.log('MongoDB Connected!'))
     .catch((err) => {
-      return console.log(`Erro na conexão com o banco: ${err}`);
+      return console.log(`Error connecting to database: ${err}`);
     });
 };
 

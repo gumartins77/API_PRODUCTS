@@ -15,6 +15,6 @@ app.use('/products', routes);
 
 app.listen(port, () => {
   console.log(
-    `Servidor rodando em http://localhost:${port}/products/find-products`,
+    `Server running at http://localhost:${port}/products/find-products`,
   );
 });
